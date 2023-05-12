@@ -1,0 +1,20 @@
+*{
+    background-color:lightblue;
+}
+h1{
+    color:darkslategray;
+    text-align: center;
+}
+img{
+    margin-left:700px;
+    border: 1px solid;
+}
+h2{
+    color: teal;
+}
+a{
+    margin-left:700px;
+}
+footer{
+    text-align: center;
+}
